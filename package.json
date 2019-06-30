@@ -4,6 +4,7 @@
   "description": "Designed to be used with two HID card readers and a PostgreeSQL Database, the project is able to serve an administrative web page and authorize access via proximity card",
   "main": "index.js",
   "scripts": {
+    "start": "npm install && node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gabriel Nori",
